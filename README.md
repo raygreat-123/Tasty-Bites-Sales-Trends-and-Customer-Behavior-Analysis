@@ -45,7 +45,7 @@ This project analyzes four months of sales and customer data from Tasty Bites, a
 ## 📈 Power BI Dashboard
 
 🖼️ **Dashboard Preview**  
-![Dashboard Screenshot](images/tastybites-dashboard.png)
+![Dashboard Screenshot] https://github.com/raygreat-123/Tasty-Bites-Sales-Trends-and-Customer-Behavior-Analysis/commit/b5a75a331b12e4c17987b14e2977f641e1b4c468
 
 🔗 **[View Full Interactive Dashboard](https://app.powerbi.com/view?r=YOUR-EMBED-LINK-HERE)**  
 *(Public link – hosted on Power BI Service for demo purposes)*
