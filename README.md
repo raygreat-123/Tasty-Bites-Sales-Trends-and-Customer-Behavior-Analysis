@@ -1,3 +1,5 @@
+Disclaimer! This project is based on a sample dataset created solely for educational purposes. It does not contain any real customer or transaction data from TastyBite or any affiliated company. The data has been anonymized and synthesized. All analysis, insights, and visualizations are hypothetical and intended only to demonstrate analytical skills and approach. Data privacy and protection remain a top priority, and no confidential or proprietary information has been used in this case study.
+
 # Tasty Bites: Sales Trends & Customer Behavior Analysis
 
 This project analyzes four months of sales and customer data from Tasty Bites, a growing restaurant in Accra. The aim is to uncover trends, understand customer behavior, and recommend actionable steps to improve business performance.
