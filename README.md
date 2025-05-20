@@ -42,15 +42,6 @@ This project analyzes four months of sales and customer data from Tasty Bites, a
 - The top 3 dishes — *Jollof & Chicken*, *Waakye*, and *Grilled Tilapia* — generated over 50% of total revenue.
 - Higher feedback scores strongly correlated with increased daily revenue.
 
-## Power BI Dashboard
-
-🖼️ **Dashboard Preview**  
-![Dashboard Screenshot] https://github.com/raygreat-123/Tasty-Bites-Sales-Trends-and-Customer-Behavior-Analysis/commit/b5a75a331b12e4c17987b14e2977f641e1b4c468
-
-🔗 **[View Full Interactive Dashboard](https://app.powerbi.com/view?r=YOUR-EMBED-LINK-HERE)**  
-*(Public link – hosted on Power BI Service for demo purposes)*
-
----
 
 ## Recommendations
 
@@ -59,6 +50,4 @@ This project analyzes four months of sales and customer data from Tasty Bites, a
 - Offer incentives for feedback to better track satisfaction.
 - Consider adding rain-based discounts to maintain sales during poor weather.
 
----
 
-## 📁 Project Files
