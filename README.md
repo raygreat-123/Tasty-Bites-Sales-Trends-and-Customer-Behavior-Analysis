@@ -13,7 +13,7 @@ This project analyzes four months of sales and customer data from Tasty Bites, a
 
 
 
-## 🧾 Dataset Overview
+##  Dataset Overview
 
 | Column                        | Description                            |
 |------------------------------|----------------------------------------|
@@ -35,14 +35,14 @@ This project analyzes four months of sales and customer data from Tasty Bites, a
 - DAX – Calculated columns and custom KPIs
 
 
-## 📌 Key Insights
+##  Key Insights
 
 - Sales peaked during weekends and when promotions were active.
 - Rainy days showed a clear drop in both sales and customer visits.
 - The top 3 dishes — *Jollof & Chicken*, *Waakye*, and *Grilled Tilapia* — generated over 50% of total revenue.
 - Higher feedback scores strongly correlated with increased daily revenue.
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 🖼️ **Dashboard Preview**  
 ![Dashboard Screenshot] https://github.com/raygreat-123/Tasty-Bites-Sales-Trends-and-Customer-Behavior-Analysis/commit/b5a75a331b12e4c17987b14e2977f641e1b4c468
@@ -52,7 +52,7 @@ This project analyzes four months of sales and customer data from Tasty Bites, a
 
 ---
 
-## 🧠 Recommendations
+## Recommendations
 
 - Launch promotions midweek to reduce weekday dips.
 - Expand the top-selling menu items into bundled deals.
